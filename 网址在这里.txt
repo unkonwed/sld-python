@@ -1,0 +1,18 @@
+开始安装
+	pip install pywin32、
+	pip install openpyxl
+	pip install pySW
+	pip install pywin32==227
+    以实现表格的创建与读取。
+找Python环境安装地址  py --list-paths
+在代码运行过程中，注意中途不要手动打开word excel，不然会报错。
+
+
+https://mp.weixin.qq.com/s/xf_lDViBEt0IR-sxPlQVRA
+
+
+
+https://imported-delivery-bdd.notion.site/Solidworks-Macros-via-Python-Joshua-Redstone-fefa0f27549f42edab7f77f4f6157253
+
+
+上面网址里边说的生成的那几个文件不是很好搞，所以我就把我生成的也放进来了（其实我也是从别人那找来的，但太久了我找不到原出处了）
